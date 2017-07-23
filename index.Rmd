@@ -7,7 +7,7 @@ output:
      font-import: http://fonts.googleapis.com/css?family=Lato
      widescreen: yes
      css: custom.css
-     logo: trent.png
+     logo: ./assets/img/trent.png
 ---
 
 ## The Problem {.fullslide}
@@ -166,7 +166,8 @@ However, a similar thing could be said for the synthetic lag approach:
 
 ## $\;$
 
-**Slides**: bit.ly/???   (Creative Commons)
+**Slides**: bit.ly/??? ![](./assets/img/publicdom.png)
+
 
 \
 
