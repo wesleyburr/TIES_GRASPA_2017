@@ -166,12 +166,8 @@ However, a similar thing could be said for the synthetic lag approach:
 
 ## $\;$
 
-**Slides**: bit.ly/??? ![](./assets/img/publicdom.png)
+**Slides**: bit.ly/ties-graspa17 &nbsp; &nbsp; ![](./assets/img/publicdom.png)
 
-
-\
-
-http://www.wesleyburr.com
 
 \
 
@@ -179,5 +175,5 @@ http://github.com/wesleyburr
 
 \
 
-@wsburr
+@[wsburr](http://twitter.com/wsburr)
 
